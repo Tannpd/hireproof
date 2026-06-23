@@ -26,6 +26,7 @@ export default function App() {
     txHash,
     txStatus,
     connectWallet,
+    fetchBountiesState,
     createBounty,
     applyForBounty,
     cancelBounty,
